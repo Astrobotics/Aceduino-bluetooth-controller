@@ -1,6 +1,5 @@
 # Aceduino-bluetooth-controller
 Alexan Commercial
-
 Astrobotics
 
 App version: 1.1
