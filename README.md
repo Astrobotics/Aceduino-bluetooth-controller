@@ -1,6 +1,8 @@
 # Aceduino-bluetooth-controller
-Alexan Commercial
-- Astrobotics
+Alexan Commercial 
+
+Astrobotics
+-Lazypanda x_x
 
 App version: 1.1
 
