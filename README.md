@@ -2,7 +2,7 @@
 Alexan Commercial 
 
 Astrobotics
--Lazypanda x_x
+-Lazypandax_x
 
 App version: 0.9 beta 
 
@@ -28,16 +28,16 @@ Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are 
 
 
 #
-# SWITCH ON/OFF MODE
+# 1.SWITCH ON/OFF MODE
 ![3](https://github.com/Astrobotics/Aceduino-bluetooth-controller/blob/master/APP/3)
 
 
 #
-# GAMEPAD MODE
+# 2.GAMEPAD MODE
 ![4](https://github.com/Astrobotics/Aceduino-bluetooth-controller/blob/master/APP/4)
 
 
 
 #
-# VOICE RECOGNITION MODE
+# 3.VOICE RECOGNITION MODE
 ![5](https://github.com/Astrobotics/Aceduino-bluetooth-controller/blob/master/APP/5)
