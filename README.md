@@ -1,6 +1,10 @@
 # Aceduino-bluetooth-controller
+Alexan Commercial
 
-app version: 1.0
+Astrobotics
+
+App version: 1.1
+
 
 For HC 05 , HC 06 & HM 10
 
