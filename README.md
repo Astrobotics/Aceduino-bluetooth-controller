@@ -4,7 +4,7 @@ Alexan Commercial
 Astrobotics
 -Lazypanda x_x
 
-App version: 1.1
+App version: 0.9 beta 
 
 
 For HC 05 , HC 06 & HM 10
