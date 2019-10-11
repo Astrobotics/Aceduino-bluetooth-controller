@@ -4,7 +4,7 @@ Alexan Commercial
 Astrobotics
 -Lazypandax_x
 
-App version: 0.9 beta 
+App version: 1.1 
 
 
 For HC 05 , HC 06 & HM 10
