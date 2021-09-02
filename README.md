@@ -4,6 +4,10 @@ Alexan Commercial
 Astrobotics
 -Lazypandax_x
 
+
+LINK: https://github.com/Astrobotics/Aceduino-bluetooth-controller/releases/download/V1/Aceduino-bluetooth-controller-master.zip
+
+
 App version: 1.1 
 
 
